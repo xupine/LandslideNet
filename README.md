@@ -7,3 +7,5 @@ The proposed scheme includes the following four modules to analyze the seismic l
 ![](https://github.com/xupine/LandslideNet/blob/master/Figures/Fig.%204.jpg)  
 # ADANet
 ![](https://github.com/xupine/LandslideNet/blob/master/Figures/Fig.%208.jpg) 
+# Reference
+Xu, Q., Ouyang, C., Jiang, T. et al. MFFENet and ADANet: a robust deep transfer learning method and its application in high precision and fast cross-scene recognition of earthquake-induced landslides. Landslides 19, 1617–1647 (2022). https://doi.org/10.1007/s10346-022-01847-1
